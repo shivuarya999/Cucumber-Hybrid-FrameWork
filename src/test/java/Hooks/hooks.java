@@ -50,7 +50,7 @@ public class hooks {
 
 
 
-		driver.close();
+		driver.quit();
 	}
 
 
